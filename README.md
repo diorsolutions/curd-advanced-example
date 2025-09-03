@@ -19,7 +19,6 @@ This project demonstrates all essential database operations with a beautiful, re
 
 - 🎨 **Modern UI/UX**
   - Responsive design that works on all devices
-  - Dark/Light theme support with `next-themes`
   - Beautiful animations and transitions
   - Accessible components built with Radix UI
 
