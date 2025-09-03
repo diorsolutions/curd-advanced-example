@@ -9,6 +9,15 @@ This project demonstrates all essential database operations with a beautiful, re
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.9-38B2AC)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Let's see:😉
+
+<img width="1920" height="975" alt="image" src="https://github.com/user-attachments/assets/e6f5a2b9-934b-496a-8b96-56343be359b6" />
+
+### Pretty animations && Advanced logic:
+
+<img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/050d05b3-73d0-46a6-84fe-f53d8d0dde94" />
+ 
+
 ## ✨ Features
 
 - 🚀 **Complete CRUD Operations**
